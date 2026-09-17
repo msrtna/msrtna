@@ -93,7 +93,7 @@ Features include job application management, companies, job categories, intervie
 
 ## 🤝 Connect With Me
 
-💼 [LinkedIn](www.linkedin.com/in/mohammad-ali-moradi)
+💼 [LinkedIn](https://www.linkedin.com/in/mohammad-ali-moradi)
 📧 [Email](mohalimor64@gmail.com)
 
 ---
